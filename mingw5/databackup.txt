@@ -1,0 +1,279 @@
+121
+USB Kingtom 32GB
+150000
+10
+2
+con hang
+20
+10
+2017
+122
+Laptop Acer
+22000000
+50
+25
+con hang
+20
+10
+2017
+123
+GTX 1080ti
+12000000
+100
+2
+con hang
+19
+10
+2016
+124
+Chuot Logi 700x
+70000
+10
+7
+con hang
+15
+2
+2016
+125
+Laptop ASUS E402NA
+5400000
+10
+0
+con hang
+10
+2
+2016
+126
+Laptop Lenovo IdeaPad 110
+100000
+0
+0
+het hang
+10
+4
+2017
+127
+Laptop HB 15bs571TU i3
+10490000
+5
+4
+con hang
+22
+9
+2017
+128
+Chuot Benius DX - 125
+60000
+15
+0
+con hang
+6
+9
+2017
+129
+Chuot Zadez M335 Black
+160000
+12
+1
+con hang
+12
+8
+2017
+130
+Loa blutooth Fenda W5
+240000
+15
+2
+con hang
+26
+1
+2017
+131
+Chuot Prolink 5005
+190000
+20
+4
+con hang
+12
+7
+2016
+132
+Chuot LogitechM221
+290000
+25
+14
+con hang
+23
+5
+2016
+133
+Chuot HP X3000
+290000
+12
+4
+con hang
+22
+6
+2017
+134
+Ban phim Bosston
+150000
+0
+0
+het hang
+26
+8
+2016
+135
+Chuot bluetooth Microsoft
+6000000
+50
+2
+con hang
+23
+4
+2017
+136
+Tai nghe Yison
+99000
+22
+12
+con hang
+25
+6
+2017
+137
+Tai nghe Prolink PHC103
+290000
+25
+0
+con hang
+22
+4
+2017
+138
+Laptop ASUS E402NA
+6890000
+20
+2
+con hang
+22
+4
+2017
+139
+Laptop ASUS X541UV
+1290000
+11
+1
+con hang
+22
+4
+2017
+140
+Tai nghe Remax RM200h
+999000
+50
+1
+con hang
+12
+4
+2017
+141
+Ban phim Ilorcks IRK76M
+229000
+10
+2
+con hang
+26
+9
+2016
+142
+ban phim Cooler Master
+309000
+20
+12
+con hang
+21
+8
+2017
+143
+Laptop Dell Insprion 7640
+22990000
+20
+1
+con hang
+24
+5
+2016
+144
+lap top HP Pavilion 14
+12290000
+10
+5
+con hang
+22
+4
+2017
+145
+laptop ASUS UX410U
+12000000
+0
+0
+het hang
+22
+4
+2016
+146
+Ban phim Zili 500
+599000
+10
+5
+con hang
+25
+5
+2016
+147
+Ban phim Cooler Pro S
+319000
+0
+0
+het hang
+22
+5
+2017
+148
+Tai nghe PKNK Red
+23990000
+5
+0
+con hang
+6
+8
+2017
+149
+Tai nghe Sony XB50AP
+890000
+10
+2
+con hang
+20
+4
+2017
+150
+Chuot Apple MB112
+1290000
+10
+0
+con hang
+21
+7
+2016
+151
+Chuot Apple MLA02
+2090000
+0
+0
+het hang
+4
+1
+2016
